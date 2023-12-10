@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="add_new_task">Add new task</string>
+    <string name="task_description">task description</string>
+    <string name="task_tittle">task tittle</string>
+    <string name="select_date">Select Date</string>
+    <string name="add_task">Add task</string>
+    <string-array name="Language" >
+        <item>Select Language </item>
+        <item>English </item>
+        <item>Arabic</item>
+    </string-array>
+    <string-array name="Modes" >
+        <item>Select Mode </item>
+        <item>DarkMode </item>
+        <item>LightMode</item>
+    </string-array>
+</resources>

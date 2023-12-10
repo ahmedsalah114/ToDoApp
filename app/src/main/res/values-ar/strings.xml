@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="add_new_task">اضف مهمة</string>
+    <string name="task_description">تفاصيل</string>
+    <string name="task_tittle">عنوان المهمه</string>
+    <string name="select_date">اخنر تاريخ</string>
+    <string name="add_task">اضف مهمة</string>
+    <string-array name="Language" >
+        <item>حدد لغة </item>
+        <item>الانجليزية </item>
+        <item>العربية</item>
+    </string-array>
+    <string-array name="Modes" >
+        <item>اخنر الوضع </item>
+        <item>الوضع الليلي</item>
+        <item>الوضع المضئ</item>
+    </string-array>
+</resources>
